@@ -12,7 +12,7 @@ Authentication: Users can sign up, log in, and log out to create and vote on pol
 Search: Users can search for polls by keyword or filter by category.
 
 ## Technologies Used
-Frontend: HTML
+Frontend: HTML5, CSS3
 
 Backend: Python, Django
 
